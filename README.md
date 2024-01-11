@@ -29,6 +29,6 @@ practical problems, and build predictive models, evaluate and analyze results.
 * Generative Models
 
 <p align="center">
-  <img width=500 src="figs/Picture1.png">
+  <img width=500 src="figs/class_logo.png">
 </p>
 
